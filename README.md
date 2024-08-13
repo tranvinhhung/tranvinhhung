@@ -1,5 +1,5 @@
 <a href="#" target="_blank">
-  <img src="svg/tvh.svg" width="1200" alt="tvh" />
+  <img src="tvh.svg" width="1200" alt="tvh" />
 </a>
 
 <h2 align="center">🛠 My Technologies 🛠</h2>
@@ -57,6 +57,6 @@
 <br>
 <p align="center">
 <a href="#" target="_blank">
-  <img src="svg/tvh-quotes.svg" width="846" height="150" alt="tvh-official" />
+  <img src="tvh-quotes.svg" width="846" height="150" alt="tvh-official" />
 </a>
 </p>
